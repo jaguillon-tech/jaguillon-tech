@@ -21,7 +21,7 @@
 **Cloud:** AWS (S3, EC2, IAM basics)  
 **Tools:** Git/GitHub, VS Code, Linux/WSL
 
-## Experience (real only)
+## Experience 
 - **TechX Internship (AI/ML + AWS)** — Aug 2025–Present  
   Working with AWS services and model workflows; building endpoints and data flows.
 - **Best Buy, Mesquite TX — Sales Advisor** — May 2023–Apr 2025  
