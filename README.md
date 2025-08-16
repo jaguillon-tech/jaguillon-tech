@@ -41,13 +41,9 @@
 
 > Repos are documented with setup steps and sample data so you can run them quickly.
 
-## Education & Certs
+## Education 
 - **B.S. Computer Information Systems** (in progress), University of Texas at Dallas  
-- **IBM Data Engineering Professional Certificate** (in progress)
 
-## What I’m working on
-- Finishing IBM DE labs in **VS Code** and recreating them locally.
-- 2–3 portfolio pipelines with better **testing**, **docs**, and **SQL quality**.
 
 ## Contact
 If you’re hiring for junior DE / internship roles, reach me at **j.aguillon.tech@gmail.com**.
